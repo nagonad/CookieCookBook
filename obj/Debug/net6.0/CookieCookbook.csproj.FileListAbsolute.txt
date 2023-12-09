@@ -1,0 +1,14 @@
+D:\C#\TodoList\CookieCookbook\bin\Debug\net6.0\CookieCookbook.exe
+D:\C#\TodoList\CookieCookbook\bin\Debug\net6.0\CookieCookbook.deps.json
+D:\C#\TodoList\CookieCookbook\bin\Debug\net6.0\CookieCookbook.runtimeconfig.json
+D:\C#\TodoList\CookieCookbook\bin\Debug\net6.0\CookieCookbook.dll
+D:\C#\TodoList\CookieCookbook\bin\Debug\net6.0\CookieCookbook.pdb
+D:\C#\TodoList\CookieCookbook\obj\Debug\net6.0\CookieCookbook.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\TodoList\CookieCookbook\obj\Debug\net6.0\CookieCookbook.AssemblyInfoInputs.cache
+D:\C#\TodoList\CookieCookbook\obj\Debug\net6.0\CookieCookbook.AssemblyInfo.cs
+D:\C#\TodoList\CookieCookbook\obj\Debug\net6.0\CookieCookbook.csproj.CoreCompileInputs.cache
+D:\C#\TodoList\CookieCookbook\obj\Debug\net6.0\CookieCookbook.dll
+D:\C#\TodoList\CookieCookbook\obj\Debug\net6.0\refint\CookieCookbook.dll
+D:\C#\TodoList\CookieCookbook\obj\Debug\net6.0\CookieCookbook.pdb
+D:\C#\TodoList\CookieCookbook\obj\Debug\net6.0\CookieCookbook.genruntimeconfig.cache
+D:\C#\TodoList\CookieCookbook\obj\Debug\net6.0\ref\CookieCookbook.dll
